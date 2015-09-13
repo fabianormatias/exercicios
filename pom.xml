@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>exercicios-java</module>
+  	<module>exercicios-front-end</module>
   </modules>
 </project>
