@@ -1,4 +1,4 @@
-package br.com.waiso.academia.anobissexto;
+package br.com.waiso.academia.programador;
 
 /**
  * Programa Java define uma função para verificar se um determinado ano é ou não
